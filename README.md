@@ -1,0 +1,1 @@
+- https://tadaoyamaoka.hatenablog.com/entry/2022/10/15/175722
