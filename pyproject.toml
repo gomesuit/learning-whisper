@@ -8,6 +8,7 @@ packages = [{include = "learning_whisper"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+soundcard = "^0.4.2"
 
 
 [build-system]
