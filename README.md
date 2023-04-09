@@ -1,1 +1,2 @@
-- https://tadaoyamaoka.hatenablog.com/entry/2022/10/15/175722
+- https://journal.lampetty.net/entry/try-whisper-cpp
+- https://github.com/ggerganov/whisper.cpp
