@@ -1,2 +1,3 @@
 - https://journal.lampetty.net/entry/try-whisper-cpp
 - https://github.com/ggerganov/whisper.cpp
+- https://github.com/aarnphm/whispercpp
